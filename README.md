@@ -1,4 +1,5 @@
 Desafio Sorteio de Amigos - Oracle ONE & Alura
+
 Este projeto foi desenvolvido como parte do desafio do programa Oracle ONE em parceria com Alura. O objetivo é criar uma tela simples onde o usuário pode digitar nomes e, ao apertar o botão de "Sortear Amigos", um nome será sorteado aleatoriamente a partir dos nomes digitados.
 
 Funcionalidades
